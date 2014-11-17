@@ -1,0 +1,9 @@
+
+body {
+    padding: 2em;
+}
+
+.modal-body {
+    max-height: none;
+    overflow: visible;
+}
